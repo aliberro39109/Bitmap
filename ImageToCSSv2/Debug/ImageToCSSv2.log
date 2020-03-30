@@ -1,0 +1,9 @@
+﻿  Bitmap.cpp
+c:\users\acer\documents\visual studio 2017\projects\imagetocssv2\imagetocssv2\bitmap.h(86): warning C4068: unknown pragma
+c:\users\acer\documents\visual studio 2017\projects\imagetocssv2\imagetocssv2\bitmap.cpp(1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+c:\users\acer\documents\visual studio 2017\projects\imagetocssv2\imagetocssv2\bitmap.cpp(327): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+c:\users\acer\documents\visual studio 2017\projects\imagetocssv2\imagetocssv2\bitmap.h(86): warning C4068: unknown pragma
+c:\users\acer\documents\visual studio 2017\projects\imagetocssv2\imagetocssv2\source.cpp(3): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  ImageToCSSv2.vcxproj -> C:\Users\acer\Documents\Visual Studio 2017\Projects\ImageToCSSv2\Debug\ImageToCSSv2.exe
