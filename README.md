@@ -1,4 +1,4 @@
-This app has been deployed to github since version 2.0
+This app has been deployed to github since version 2.0, the original post is https://www.facebook.com/ali.berro.39109/posts/1101247510229420
 
 The features regarding it are:
 * Read Bitmaps of type (1,4,8,16,32) bits per pixel.
@@ -19,7 +19,7 @@ int main()
     Bitmap bmp;
     int code = bmp.Load("ourImage.bmp"); //Loads the image, can be done directly from the constructor
     if(code == bmp.CODE::LOADED)
-        bmp.toHTML("outputedHTMLName"); //Outputs the html name, we can also check if any sort of error ever happens
+        bmp.toHTML("outputedHTMLName"); //translates our pixels to html
     else
         std::cout << "Error";
 	if (bmp.getLastError() == Bitmap::CODE::_NO_ERROR)
